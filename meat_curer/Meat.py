@@ -42,13 +42,5 @@ if __name__ == '__main__':
     from sys import argv
 
     meat_type = argv[1]
-
     meat = Meat(meat_type)
-    print(meat.ranges)
-    print(meat.duration)
-    print(meat.airlow)
-    print(meat.t_low)
-    print(meat.t_high)
-    print(meat.h_low)
-    print(meat.h_high)
-
+    pprint(meat.ranges)
