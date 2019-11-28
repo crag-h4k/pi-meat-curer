@@ -8,7 +8,7 @@
 
 ### Parts List
 
-![Pi 3 A+](https://www.amazon.com/Raspberry-Pi-3-Computer-Board/dp/B07KKBCXLY/ref=sr_1_1?keywords=pi+3+a%2B&qid=1574963863&sr=8-1)
+[Pi 3 A+](https://www.amazon.com/Raspberry-Pi-3-Computer-Board/dp/B07KKBCXLY/ref=sr_1_1?keywords=pi+3+a%2B&qid=1574963863&sr=8-1)
 
 [Mini Fridge](https://www.amazon.com/Danby-DCR031B1BSLDD-Compact-Refrigerator-Steel/dp/B00O2N4LDS/ref=sr_1_3?crid=2AOVHGFC91ZJ6&keywords=danby+mini+fridge&qid=1574963895&sprefix=danby+m%2Caps%2C171&sr=8-3)
 
